@@ -18,4 +18,4 @@ https://github.com/explosion/spacy-models/releases/download/ja_core_news_sm-2.3.
 https://github.com/explosion/spacy-models/releases/download/zh_core_web_sm-2.3.0/zh_core_web_sm-2.3.0.tar.gz#egg=zh_core_web_sm==2.3.0
 
 # Model dependencies
-pip install pkuseg==0.0.22
+pkuseg==0.0.22
