@@ -15,4 +15,4 @@ https://github.com/explosion/spacy-models/releases/download/da_core_news_sm-2.3.
 https://github.com/explosion/spacy-models/releases/download/pl_core_news_sm-2.3.0/pl_core_news_sm-2.3.0.tar.gz#egg=pl_core_news_sm==2.3.0
 https://github.com/explosion/spacy-models/releases/download/ro_core_news_sm-2.3.0/ro_core_news_sm-2.3.0.tar.gz#egg=ro_core_news_sm==2.3.0
 https://github.com/explosion/spacy-models/releases/download/ja_core_news_sm-2.3.0/ja_core_news_sm-2.3.0.tar.gz#egg=ja_core_news_sm==2.3.0
-https://github.com/explosion/spacy-models/releases/download/zh_core_news_sm-2.3.0/zh_core_news_sm-2.3.0.tar.gz#egg=zh_core_news_sm==2.3.0
+https://github.com/explosion/spacy-models/releases/download/zh_core_web_sm-2.3.0/zh_core_web_sm-2.3.0.tar.gz#egg=zh_core_web_sm==2.3.0
