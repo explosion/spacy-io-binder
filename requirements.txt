@@ -1,4 +1,4 @@
-spacy-nightly>=3.0.0a23
+spacy-nightly>=3.0.0a25
 
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0a0/en_core_web_sm-3.0.0a0.tar.gz#egg=en_core_web_sm==3.0.0a0
 https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.0.0a0/en_core_web_md-3.0.0a0.tar.gz#egg=en_core_web_md==3.0.0a0
@@ -16,6 +16,3 @@ https://github.com/explosion/spacy-models/releases/download/pl_core_news_sm-3.0.
 https://github.com/explosion/spacy-models/releases/download/ro_core_news_sm-3.0.0a0/ro_core_news_sm-3.0.0a0.tar.gz#egg=ro_core_news_sm==3.0.0a0
 https://github.com/explosion/spacy-models/releases/download/ja_core_news_sm-3.0.0a0/ja_core_news_sm-3.0.0a0.tar.gz#egg=ja_core_news_sm==3.0.0a0
 https://github.com/explosion/spacy-models/releases/download/zh_core_web_sm-3.0.0a0/zh_core_web_sm-3.0.0a0.tar.gz#egg=zh_core_web_sm==3.0.0a0
-
-# Model dependencies
-pkuseg==0.0.22
