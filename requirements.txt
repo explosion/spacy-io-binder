@@ -7,7 +7,7 @@ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.0.
 https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.0.0a0/pt_core_news_sm-3.0.0a0.tar.gz#egg=pt_core_news_sm==3.0.0a0
 https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.0.0a0/fr_core_news_sm-3.0.0a0.tar.gz#egg=fr_core_news_sm==3.0.0a0
 https://github.com/explosion/spacy-models/releases/download/it_core_news_sm-3.0.0a0/it_core_news_sm-3.0.0a0.tar.gz#egg=it_core_news_sm==3.0.0a0
-https://github.com/explosion/spacy-models/releases/download/nl_core_news_sm-3.0.0a0/nl_core_news_sm-3.0.0a0.tar.gz#egg=nl_core_news_sm==3.0.0a0
+# https://github.com/explosion/spacy-models/releases/download/nl_core_news_sm-3.0.0a0/nl_core_news_sm-3.0.0a0.tar.gz#egg=nl_core_news_sm==3.0.0a0
 https://github.com/explosion/spacy-models/releases/download/el_core_news_sm-3.0.0a0/el_core_news_sm-3.0.0a0.tar.gz#egg=el_core_news_sm==3.0.0a0
 https://github.com/explosion/spacy-models/releases/download/nb_core_news_sm-3.0.0a0/nb_core_news_sm-3.0.0a0.tar.gz#egg=nb_core_news_sm==3.0.0a0
 https://github.com/explosion/spacy-models/releases/download/lt_core_news_sm-3.0.0a0/lt_core_news_sm-3.0.0a0.tar.gz#egg=lt_core_news_sm==3.0.0a0
