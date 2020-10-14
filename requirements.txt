@@ -1,4 +1,4 @@
-spacy-nightly>=3.0.0a35
+spacy-nightly>=3.0.0a41
 
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0a0/en_core_web_sm-3.0.0a0.tar.gz#egg=en_core_web_sm==3.0.0a0
 https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.0.0a0/en_core_web_md-3.0.0a0.tar.gz#egg=en_core_web_md==3.0.0a0
