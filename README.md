@@ -4,4 +4,4 @@
 
 This repo is used to build [Binder](https://mybinder.org/) images for the interactive code examples examples on [spacy.io](https://spacy.io). See [Juniper](https://github.com/ines/juniper) for details on the front-end implementation.
 
-The live image used on the spaCy website is based on the `live` branch of this repository.
+In spaCy's [`site.json`](https://github.com/explosion/spaCy/blob/spacy.io/website/meta/site.json), you'll see values for `binderUrl` and `binderBranch`, which refer to the repository (this one) and the branch (currently `spacy.io`) that are used for the docs.
