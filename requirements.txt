@@ -21,5 +21,7 @@ https://github.com/explosion/spacy-models/releases/download/pl_core_news_sm-3.6.
 https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.6.0/pt_core_news_sm-3.6.0-py3-none-any.whl
 https://github.com/explosion/spacy-models/releases/download/ro_core_news_sm-3.6.0/ro_core_news_sm-3.6.0-py3-none-any.whl
 https://github.com/explosion/spacy-models/releases/download/ru_core_news_sm-3.6.0/ru_core_news_sm-3.6.0-py3-none-any.whl
+https://github.com/explosion/spacy-models/releases/download/sl_core_news_sm-3.6.0/sl_core_news_sm-3.6.0-py3-none-any.whl
 https://github.com/explosion/spacy-models/releases/download/sv_core_news_sm-3.6.0/sv_core_news_sm-3.6.0-py3-none-any.whl
+https://github.com/explosion/spacy-models/releases/download/uk_core_news_sm-3.6.0/uk_core_news_sm-3.6.0-py3-none-any.whl
 https://github.com/explosion/spacy-models/releases/download/zh_core_web_sm-3.6.0/zh_core_web_sm-3.6.0-py3-none-any.whl
